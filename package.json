@@ -1,0 +1,8 @@
+{
+  "name": "pikamonth",
+  "version": "1.0.0",
+  "main": "pikamonth.js",
+  "repository": "git@github.com:hubbado/pikamonth.git",
+  "author": "Alfonso Uceda <alfonso@hubbado.com>",
+  "license": "MIT"
+}
